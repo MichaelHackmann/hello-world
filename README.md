@@ -1,2 +1,2 @@
 # hello-world
-A hello world repository
+I am going to be a rich guy when I grow up!
